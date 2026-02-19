@@ -2,7 +2,7 @@
 
 This repository contains a Power BI project focused on Sales Analysis. I took raw Super Store data and transformed it into an interactive dashboard to track performance and identify trends.
 
-### 🔗 [View the Interactive Report Here](https://www.google.com/search?q=https://app.powerbi.com/view?r=eyJrIjoiNTcxZWM4ZmItMjI4NC00NjYxLWJmMjAtNDYyY2EwZTA3ZTk3IiwidCI6IjM2ZTEyZmEzLWJiYWYtNGQ1Yi1hYjFjLWE5YzA3NzhiYjdmYyIsImMiOjl9)
+### 🔗  Copy The Url: https://app.powerbi.com/view?r=eyJrIjoiNTcxZWM4ZmItMjI4NC00NjYxLWJmMjAtNDYyY2EwZTA3ZTk3IiwidCI6IjM2ZTEyZmEzLWJiYWYtNGQ1Yi1hYjFjLWE5YzA3NzhiYjdmYyIsImMiOjl9
 
 ---
 
