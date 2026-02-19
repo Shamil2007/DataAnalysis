@@ -1,21 +1,21 @@
-# 📊 Super Store Analyze
+# 📊 Super Store Analysis
 
-This repository contains a Power BI project focused on Sales Analysis. The goal was to take raw data and turn it into a clear, interactive dashboard that actually tells a story.
+This repository contains a Power BI project focused on Sales Analysis. I took raw Super Store data and transformed it into an interactive dashboard to track performance and identify trends.
 
-### 🔗 [View the Interactive Report Here](https://www.google.com/search?q=https://app.powerbi.com/view?r=eyJrIjoiNTcxZWM4ZmItMjI4NC00NjYxLWJmMjAtNDYyY2EwZTA3ZTk3IiwidCI6IjM2ZTEyZmEzLWJiYWYtNGQ1Yi1hYjFjLWE5YzA3NzhiYjdmYyIsImMiOjl9
-)
+### 🔗 [View the Interactive Report Here](https://www.google.com/search?q=https://app.powerbi.com/view%3Fr%3DeyJrIjoiNTcxZWM4ZmItMjI4NC00NjYxLWJmMjAtNDYyY2EwZTA3ZTk3IiwidCI6IjM2ZTEyZmEzLWJiYWYtNGQ1Yi1hYjFjLWE5YzA3NzhiYjdmYyIsImMiOjl9)
 
 ---
 
-### Quick Highlights:
+### Project Highlights:
 
-* **Data Cleaning:** Used Power Query to handle.
-* **Visuals:** Focused on clean, user-friendly.
+* **Data Cleaning:** Used Power Query to structure the raw dataset, handle data types, and ensure accuracy.
+* **Visuals:** Designed with a focus on user experience, using clean layouts to highlight KPIs like profit margins and regional sales.
+* **Functionality:** Includes interactive filters to drill down into specific categories and timeframes.
 
 ### What’s in this Repo?
 
-* `FileName.pbix`: The full Power BI file.
-* `PDF/`: A quick look at the dashboard layout.
+* `Super_Store_Analysis.pbix`: The full Power BI file including the data model.
+* `PDF/`: A PDF export of the report for a quick static preview.
 
 ---
 
